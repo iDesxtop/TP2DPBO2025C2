@@ -3,7 +3,7 @@
 Saya Muhammad Alvinza dengan NIM 2304879 mengerjakan Tugas Praktikum 2 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Diagram
-![TP2 drawio](https://github.com/user-attachments/assets/caeef313-dbb4-4296-a849-25d12ed5c292)
+![TP2-fix drawio](https://github.com/user-attachments/assets/bfbc2a7e-a448-46f9-9897-ea452412eca9)
 
 ## Desain Program 
 Inhertance Multilevel.
