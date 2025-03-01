@@ -22,6 +22,7 @@ Setter dan Getter untuk setiap Variabel, dengan tambahan getl[variabel] untuk me
 ## Alur Program
 Pertama ditampilkan tabel berisikan 5 Data Objek yang sudah di hard-code. User dapat memasukkan banyaknya Baju baru yang akan ditambahkan. Setelah itu, User dapat memasukkan data dengan urutan:
 [ID NamaProduk Stok Harga Jenis Bahan Warna Untuk Size Merk]
-Setelah penginputan selesai, Tabel yang sudah dimodifikasi akan ditampilkan.
+Setelah penginputan selesai, Tabel yang sudah dimodifikasi akan ditampilkan. 
+Tabel akan mengikuti kata terpanjang dari masing-masing elemen (dinamis).
 
 Disediakan input.txt untuk acuan input, serta Dokumentasi untuk bukti di setiap folder.
