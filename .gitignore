@@ -1,3 +1,10 @@
-/.vscode
-/JAVA
-/PY
+.gitignore
+.vscode/settings.json
+JAVA/Aksesoris.class
+JAVA/Baju.class
+JAVA/Main.class
+JAVA/Petshop.class
+PY/__pycache__/Aksesoris.cpython-311.pyc
+PY/__pycache__/Baju.cpython-311.pyc
+PY/__pycache__/Petshop.cpython-311.pyc
+CPP/run.exe
